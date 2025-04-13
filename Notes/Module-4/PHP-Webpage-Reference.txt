@@ -1,0 +1,95 @@
+Search and Display Results From Database (PHP MySQL) - https://code-boxx.com/php-mysql-search/
+
+PHP Send Email with HTML Template - https://code-boxx.com/php-send-email-html-template/
+
+Simple Multi-Language Website With PHP - https://code-boxx.com/multi-language-website-php/
+
+PHP Audio Player - https://code-boxx.com/simple-php-audio-player/
+
+PHP MySQL CRUD Application - https://code-boxx.com/simple-php-crud-application-mysql/
+
+Send Email Attachments In PHP - https://code-boxx.com/send-attachment-php-mail/
+
+Captcha With PHP - https://code-boxx.com/simple-php-captcha-script/
+
+HTML CSS Javascript PHP MySQL To Build A Website - https://code-boxx.com/use-html-css-javascript-php-mysql/
+
+Address Book With PHP MYSQL - https://code-boxx.com/simple-address-book-php-mysql/
+
+Auction Bidding With PHP MYSQL - https://code-boxx.com/auction-bidding-php-mysql/
+
+Poll With PHP MYSQL - https://code-boxx.com/simple-php-poll-mysql/
+
+PHP Contact Form With Google reCaptcha - https://code-boxx.com/php-contactform-recaptcha/
+
+File Sharing With PHP MYSQL - https://code-boxx.com/file-sharing-php-mysql/
+
+PHP To-do List - https://code-boxx.com/simple-php-web-application/
+
+Reservation System with PHP MySQL - https://code-boxx.com/simple-php-reservation-system/
+
+User Registration With Email Verification In PHP MYSQL - https://code-boxx.com/user-registration-email-php-mysql/
+
+Friend Relationship System In PHP MySQL - https://code-boxx.com/friend-system-php-mysql/
+
+Referral System With PHP MySQL - https://code-boxx.com/simple-php-referral-system/
+
+User Login System With PHP MySQL - https://code-boxx.com/simple-login-php-mysql/
+
+Barebones CMS With PHP MYSQL - https://code-boxx.com/simple-cms-php-mysql/
+
+Order(Add-to-Cart) Form With PHP MySQL - https://code-boxx.com/simple-php-order-form/
+
+PHP Video Gallery (No Database, From Folder) - https://code-boxx.com/simple-php-video-gallery/
+
+Like Dislike System In PHP MySQL - https://code-boxx.com/php-like-dislike-system/
+
+One Time Password (OTP) With PHP MySQL - https://code-boxx.com/php-one-time-password/
+
+Login System In PHP Without A Database - https://code-boxx.com/simple-php-login-without-database/
+
+PHP MVC With Database - https://code-boxx.com/simple-php-mvc-example/
+
+List Files & Folders In PHP - https://code-boxx.com/list-files-folders-php/
+
+Events Calendar With PHP MySQL - https://code-boxx.com/simple-php-calendar-events/
+
+Guestbook With PHP & MySQL - https://code-boxx.com/simple-php-guest-book/
+
+4 Steps To Bulk Send Email Newsletters In PHP MySQL - https://code-boxx.com/bulk-email-php-mysql/
+
+How To Mail To Multiple Recipients In PHP – Multiple TO CC BCC - https://code-boxx.com/php-mail-multiple-recipients-cc-bcc/
+
+2 Ways To Write & Append To Files In PHP - https://code-boxx.com/write-append-files-php/
+
+3 Steps Simple Image Upload Using AJAX PHP - https://code-boxx.com/php-ajax-image-upload/
+
+Shopping Cart With PHP MySQL - https://code-boxx.com/simple-php-mysql-shopping-cart/
+
+PHP Shopping Cart (Without Database) - https://code-boxx.com/php-shopping-cart-without-database/
+
+PHP File Upload - https://code-boxx.com/simple-php-file-upload/
+
+URL Shortener With PHP MySQL - https://code-boxx.com/url-shortener-php-mysql/
+
+PHP Quiz Without Database - https://code-boxx.com/simple-php-quiz/
+
+PHP MYSQL JSON Examples - https://code-boxx.com/json-php-beginners-examples/
+
+Build a PHP Plugin Module System - https://code-boxx.com/php-plugin-module-system/
+
+Calculate VAT GST In PHP - https://code-boxx.com/calculate-vat-gst-php/
+
+Send Email In PHP - https://code-boxx.com/send-email-php/
+
+GPS Tracking System With PHP and Javascript - https://code-boxx.com/gps-tracking-system-php-javascript/
+
+Messaging System With PHP MySQL - https://code-boxx.com/messaging-system-php-mysql/
+
+PHP Admin Panel - https://code-boxx.com/simple-php-admin-panel/
+
+AJAX Examples With PHP - https://code-boxx.com/simple-ajax-php/
+
+User Role Management System With PHP MySQL - https://code-boxx.com/php-user-role-management-system/
+
+Membership System With PHP MYSQL - https://code-boxx.com/membership-system-php-mysql/
